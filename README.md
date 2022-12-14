@@ -28,14 +28,17 @@ The Image Filters.py in this repo will show you how to gain access and display f
 
     3. Canny - This is that weird filter that you would've thought had no purpose in your camera. Look below for an example
 
-    ![alt text](https://github.com/VijayV28/Computer-Vision-Projects/blob/main/images/canny.png)
     Turns out this is object detection and plays a vital role in Computer Vision
 
     4. Features = This might be the most interesting one here. It lets you detect corners in real-time!! You have to try it to see how cool it actually is. 
 
-## 2. 🏞️ Stitching Images
+## 2. 🪡 Stitching Images
 
-Remember that almost useless functionality that lies at the last place in your phone's camera? The Panorama feature! This program does exactly that by stiching together consecutive images. It is important to note that the quality depends entirely on the number of keypoints shared by every two consecutive images. This means that two images can be stitched together perfectly without any distortion if there are a number of keypoints that are similar between them. Also, if you are to try with your own set of images, make sure that the lighting doesn't change between the images and try to take it from the height for better quality. It's pretty straight forward. Nothing to play around with.
+Remember that almost useless functionality that lies at the last place in your phone's camera? The Panorama feature! This program does exactly that by stiching together consecutive images.
+
+It is important to note that the quality depends entirely on the number of keypoints shared by every two consecutive images. This means that two images can be stitched together perfectly without any distortion if there are a number of keypoints that are similar between them. Also, if you are to try with your own set of images, make sure that the lighting doesn't change between the images and try to take it from the height for better quality.
+
+It's pretty straight forward. Nothing to play around with.
 
 ## 🤗 Feedback
 
