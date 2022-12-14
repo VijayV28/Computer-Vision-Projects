@@ -26,7 +26,7 @@ The Image Filters.py in this repo will show you how to gain access and display f
 
     2. Blur - Nothing interesting again. Blurs the image feed, but you can always play with the kernel matrix in the code to try out different levels of blurring.
 
-    3. Canny - This is that weird filter that you would've thought had no purpose in your camera. Look below for an example. Turns out this is object detection and     plays a vital role in Computer Vision
+    3. Canny - This is that weird filter that you would've thought had no purpose in your camera. Look below for an example. Turns out this is object detection and plays a vital role in Computer Vision
 
     4. Features = This might be the most interesting one here. It lets you detect corners in real-time!! You have to try it to see how cool it actually is. 
  
